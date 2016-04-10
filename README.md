@@ -3,9 +3,9 @@ Web Human-Machine Interface
 An easy way to realize Web HMI for devices (PLC or industrial controls) which use:
  * Ethernet S7 Protocol communications. It is the backbone of the Siemens communications
  * FINS Protocol communications (UDP/IP or TCP/IP). It is used in the OMRON PLC
- * MODBUS RTU: Serial communication
- * MODBUS TCP/IP.
- * MQTT is a machine-to-machine "Internet of Things" connectivity protocol
+ * MODBUS RTU. Serial communication
+ * MODBUS TCP/IP
+ * MQTT protocol. It is a machine-to-machine "Internet of Things" connectivity protocol
 
 
 # Main features
